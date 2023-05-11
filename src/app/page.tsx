@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <div className="">
-      <p className="">Hello World</p>
+    <div className="h-[15rem] border w-[15rem] grid place-items-center">
+      <p className="text-yellow-300">Hello World</p>
     </div>
   );
 }
